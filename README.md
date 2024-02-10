@@ -4,18 +4,18 @@ Translation metalanguage of translation strategy scheme, consisting of strategy 
 
 ## Contents
 
-* TML-Strategy-v1-EN (xlsx)
+* TML-Strategy-v2-JA (xlsx)
     * Typology
 
 ## Author
 
-TML-Strategy-v1-EN was developed by Mayuka Yamamoto and Masaru Yamada. The strategy typology is the outcome of adapting translation strategies proposed by Chesterman (2016) to English-to-Japanese translations given in translation training handbooks. We appreciate the groundbreaking work by Chesterman (2016). The details of the development of strategy typology, including the process of adaptation from Chesterman (2016) and the original contribution of the typology, are described in Yamamoto and Yamada (2022).
+TML-Strategy-v2-JA was developed by Mayuka Yamamoto, Atsushi Fujita, and Kyo Kageura. The strategy typology is the outcome of refining the strategy typology proposed by Yamamoto et al. (2022) and adapting translation strategies proposed by Chesterman (2016). The details of the development of strategy typology, including the process of adaptation from Chesterman (2016) and the original contribution of the typology, are described in Yamamoto et al. (2023).
 
 The Excel file for download was created by Mayuka Yamamoto.
 
 ## Acknowledgements
 
-*  Atsushi Fujita, Kyo Kageura and Rei Miyata for discussions on the application of strategies to actual data.
+*  Masaru Yamada and Rei Miyata for discussions on the application of strategies to actual data.
 
 ## License
 
@@ -23,12 +23,14 @@ The metalanguage(s) and related materials are distributed under the conditions o
 
 ## References
 
-* Yamamoto, M., & Yamada, M. (2022). Translation strategies for
-English-to-Japanese translation. In R. Miyata, M. Yamada, & K. Kageura (Eds.), [Metalanguages for dissecting translation processes: Theoretical development and practical applications](https://doi.org/10.4324/9781003250852) (pp. 80–91). Routledge.
+### TML-Strategy
 
-**Main Work Referred to in Developing TML-Strategy**
+* Yamamoto, M., Fujita, A., & Kageura, K. (2023). Refinement of a typology of translation strategies for English-to-Japanese translation based on actual examples and multi-person discussions. Interpreting and Translation Studies, 23:xx-xx. (In Japanese).
+
+### Main Work Referred to in Developing TML-Strategy
 
 * Chesterman, A. (2016). Memes of translation: The spread of ideas in translation theory (2nd ed.). John Benjamins.
+* Yamamoto, M., & Yamada, M. (2022). Translation strategies for English-to-Japanese translation. In R. Miyata, M. Yamada, & K. Kageura (Eds.), [Metalanguages for dissecting translation processes: Theoretical development and practical applications](https://doi.org/10.4324/9781003250852) (pp. 80–91). Routledge.
 
 ## Related metalanguages
 
